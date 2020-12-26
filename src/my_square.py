@@ -7,6 +7,7 @@ def my_square(y)
 
 #added new sqaure2 function
 def my_square2(x)
+	""" uses the * function """
     return (x * x)
 	
 print (my_square(42))
