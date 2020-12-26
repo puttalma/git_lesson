@@ -1,5 +1,6 @@
 def my_square(x)
-	"""takes a value and return square"
+	"""takes a value and return square
+	uses the ** operator
 	"""
 	retrun (x ** 2)
 
