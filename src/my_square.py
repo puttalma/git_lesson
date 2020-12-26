@@ -1,7 +1,7 @@
-def my_square(x)
+def my_square(z)
 	"""takes a value and return square
-	uses the ** operator
+	uses the * operator
 	"""
-	retrun (x ** 2)
+	retrun (z * z)
 
-	print (my_square(4))
+	print (my_square(24))
