@@ -5,6 +5,7 @@ def my_square(y)
 	retrun (y ** 2)
 
 
+#added new sqaure2 function
 def my_square2(x)
     return (x * x)
 	
